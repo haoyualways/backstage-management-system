@@ -1,0 +1,17 @@
+127.0.0.1 - - [28/Feb/2021:18:05:08 +0800] "GET /SSM_web/permission/findAll HTTP/1.1" 302 - http-bio-8888-exec-1 50
+127.0.0.1 - - [28/Feb/2021:18:05:09 +0800] "GET /SSM_web/login.jsp HTTP/1.1" 200 2576 http-bio-8888-exec-2 474
+127.0.0.1 - - [28/Feb/2021:18:05:09 +0800] "GET /SSM_web/plugins/jQuery/jquery-2.2.3.min.js HTTP/1.1" 304 - http-bio-8888-exec-3 22
+127.0.0.1 - - [28/Feb/2021:18:05:09 +0800] "GET /SSM_web/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 - http-bio-8888-exec-4 10
+127.0.0.1 - - [28/Feb/2021:18:05:09 +0800] "GET /SSM_web/plugins/iCheck/icheck.min.js HTTP/1.1" 304 - http-bio-8888-exec-5 10
+127.0.0.1 - - [28/Feb/2021:18:05:09 +0800] "GET /SSM_web/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028 http-bio-8888-exec-6 40
+127.0.0.1 - - [28/Feb/2021:18:05:11 +0800] "POST /SSM_web/login HTTP/1.1" 200 12718 http-bio-8888-exec-10 670
+127.0.0.1 - - [28/Feb/2021:18:05:14 +0800] "GET /SSM_web/permission/findAll HTTP/1.1" 200 17014 http-bio-8888-exec-7 416
+127.0.0.1 - - [28/Feb/2021:18:05:17 +0800] "GET /SSM_web/permission/findAll?page=1&size=2 HTTP/1.1" 200 16215 http-bio-8888-exec-7 15
+127.0.0.1 - - [28/Feb/2021:18:05:18 +0800] "GET /SSM_web/permission/findAll?page=2&size=2 HTTP/1.1" 200 16184 http-bio-8888-exec-7 0
+127.0.0.1 - - [28/Feb/2021:18:05:20 +0800] "GET /SSM_web/permission/findAll?page=1&size=2 HTTP/1.1" 200 16215 http-bio-8888-exec-7 4
+127.0.0.1 - - [28/Feb/2021:18:05:22 +0800] "GET /SSM_web/permission/findAll?page=0&size=2 HTTP/1.1" 200 16215 http-bio-8888-exec-7 3
+127.0.0.1 - - [28/Feb/2021:18:05:23 +0800] "GET /SSM_web/permission/findAll?page=2&size=2 HTTP/1.1" 200 16184 http-bio-8888-exec-7 15
+127.0.0.1 - - [28/Feb/2021:18:05:26 +0800] "GET /SSM_web/permission/findAll?page=1&size=2 HTTP/1.1" 200 16215 http-bio-8888-exec-7 3
+127.0.0.1 - - [28/Feb/2021:18:05:30 +0800] "GET /SSM_web/permission/findAll?page=1&size=10 HTTP/1.1" 200 17020 http-bio-8888-exec-7 12
+127.0.0.1 - - [28/Feb/2021:18:05:33 +0800] "GET /SSM_web/user/findAll HTTP/1.1" 200 16825 http-bio-8888-exec-7 100
+127.0.0.1 - - [28/Feb/2021:18:05:38 +0800] "GET /SSM_web/role/findAll HTTP/1.1" 200 17499 http-bio-8888-exec-7 100

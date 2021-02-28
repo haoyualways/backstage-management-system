@@ -1,0 +1,5 @@
+com\haoyu\controller\OrdersController.class
+com\haoyu\controller\ProductController.class
+com\haoyu\controller\RoleController.class
+com\haoyu\controller\PermissionController.class
+com\haoyu\controller\UserController.class

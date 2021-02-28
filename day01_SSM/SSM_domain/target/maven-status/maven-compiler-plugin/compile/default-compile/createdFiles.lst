@@ -1,0 +1,7 @@
+com\haoyu\domain\Product.class
+com\haoyu\domain\Role.class
+com\haoyu\domain\Traveller.class
+com\haoyu\domain\Permission.class
+com\haoyu\domain\Member.class
+com\haoyu\domain\UserInfo.class
+com\haoyu\domain\Orders.class

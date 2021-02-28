@@ -1,0 +1,10 @@
+com\haoyu\service\impl\IPermissionServiceImpl.class
+com\haoyu\service\impl\IUserServiceImpl.class
+com\haoyu\service\IRoleService.class
+com\haoyu\service\IUserService.class
+com\haoyu\service\IPermissionService.class
+com\haoyu\service\IProductService.class
+com\haoyu\service\IOrdersService.class
+com\haoyu\service\impl\IRoleServiceImpl.class
+com\haoyu\service\impl\IOrdersServiceImpl.class
+com\haoyu\service\impl\IProductServiceImpl.class

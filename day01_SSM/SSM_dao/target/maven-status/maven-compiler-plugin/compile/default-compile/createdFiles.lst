@@ -1,0 +1,7 @@
+com\haoyu\dao\IOrdersDao.class
+com\haoyu\dao\ITravellerDao.class
+com\haoyu\dao\IRoleDao.class
+com\haoyu\dao\IPermissionDao.class
+com\haoyu\dao\IUserDao.class
+com\haoyu\dao\IMemberDao.class
+com\haoyu\dao\IProductDao.class
